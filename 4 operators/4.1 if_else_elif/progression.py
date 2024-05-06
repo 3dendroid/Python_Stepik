@@ -1,9 +1,10 @@
-first_a = int(input())
-second_a = int(input())
-third_a = int(input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = b - a
+e = c - b
 
-###CONTINUE
-if third_a - second_a == second_a and second_a - first_a == first_a:
+if d == e:
     print('YES')
 else:
     print('NO')
