@@ -1,3 +1,4 @@
 a = float(input())
 
-# continue
+b = a % 1
+print(b)
