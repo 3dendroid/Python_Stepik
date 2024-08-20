@@ -1,4 +1,7 @@
-a = int(input())
-b = int(input())
+total = 1
 
-#continue
+for i in range(0, 10):
+    n = int(input())
+    if n != 0:
+        total *= n
+print(total)
