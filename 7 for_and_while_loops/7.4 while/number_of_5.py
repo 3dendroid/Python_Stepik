@@ -1,9 +1,10 @@
 digit = int(input())
 fifth = 0
 
-while digit >= 0:
-    sum += digit
+while 0 < digit <= 5:
+    if digit == 5:
+        fifth += 1
+    else:
+        pass
     digit = int(input())
-print(sum)
-
-# continue
+print(fifth)
