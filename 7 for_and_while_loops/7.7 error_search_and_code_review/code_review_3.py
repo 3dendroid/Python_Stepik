@@ -1,9 +1,11 @@
-s = 1
+even = 0
 
-for i in range(1, 7):
-    n = input()
-    if i % 2 == 0:
-        s = s + n
-print(s)
+for i in range(0, 7):
+    n = int(input())
+    if n % 2 == 0:
+        even += n
 
-# continue
+if even > 0:
+    print(even)
+else:
+    print("0")
