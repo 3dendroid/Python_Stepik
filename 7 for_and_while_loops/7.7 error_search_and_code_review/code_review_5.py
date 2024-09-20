@@ -1,6 +1,6 @@
 n = int(input())
-while n > 0:
-    n %= 10
-print(n)
 
-# continue
+while n > 9:
+    n //= 10
+
+print(n)
