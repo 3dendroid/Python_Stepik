@@ -1,4 +1,4 @@
-num = int(input())
+num = int (input ())
 
 progression = True
 
@@ -10,6 +10,6 @@ while (num % 100 // 10) != 0:
         break
     num = num // 10
 if progression == True:
-    print('YES')
+    print ('YES')
 else:
-    print('NO')
+    print ('NO')

@@ -1,4 +1,4 @@
-name = input()
-surname = input()
+name = input ()
+surname = input ()
 
-print(f'Hello {name} {surname}! You have just delved into Python')
+print (f'Hello {name} {surname}! You have just delved into Python')

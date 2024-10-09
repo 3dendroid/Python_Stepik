@@ -1,9 +1,9 @@
-zoom = int(input())
-flash = int(input())
+zoom = int (input ())
+flash = int (input ())
 
 if zoom > flash:
-    print("NO")
+    print ("NO")
 elif zoom == flash:
-    print("Don't know")
+    print ("Don't know")
 else:
-    print("YES")
+    print ("YES")

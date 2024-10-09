@@ -1,7 +1,7 @@
-first = input()
-second = input()
+first = input ()
+second = input ()
 
 if first == second:
-    print('Пароль принят')
+    print ('Пароль принят')
 else:
-    print('Пароль не принят')
+    print ('Пароль не принят')

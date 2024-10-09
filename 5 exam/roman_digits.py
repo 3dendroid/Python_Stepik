@@ -1,24 +1,24 @@
-digit = int(input())
+digit = int (input ())
 
 if digit == 1:
-    print("I")
+    print ("I")
 elif digit == 2:
-    print("II")
+    print ("II")
 elif digit == 3:
-    print("III")
+    print ("III")
 elif digit == 4:
-    print("IV")
+    print ("IV")
 elif digit == 5:
-    print("V")
+    print ("V")
 elif digit == 6:
-    print("VI")
+    print ("VI")
 elif digit == 7:
-    print("VII")
+    print ("VII")
 elif digit == 8:
-    print("VIII")
+    print ("VIII")
 elif digit == 9:
-    print("IX")
+    print ("IX")
 elif digit == 10:
-    print("X")
+    print ("X")
 else:
-    print("ошибка")
+    print ("ошибка")

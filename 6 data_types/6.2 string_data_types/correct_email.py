@@ -1,6 +1,6 @@
-a = input()
+a = input ()
 
-if '@' in a and  '.' in a:
-    print('YES')
+if '@' in a and '.' in a:
+    print ('YES')
 else:
-    print('NO')
+    print ('NO')

@@ -19,6 +19,6 @@ while n < 10:
     n += 2
     if n == 7:
         break
-    print(n)
+    print (n)
 else:
-    print('Цикл завершен.')
+    print ('Цикл завершен.')

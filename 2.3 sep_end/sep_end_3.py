@@ -9,8 +9,8 @@
 # variable_name = input()
 # print('Вы ввели текст:', variable_name)
 
-print('Как тебя зовут?')
-name = input()
-print('Привет,', name)
+print ('Как тебя зовут?')
+name = input ()
+print ('Привет,', name)
 name = 'Timur'
-print('Привет,', name)
+print ('Привет,', name)

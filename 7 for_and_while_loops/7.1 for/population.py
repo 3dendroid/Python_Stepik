@@ -1,7 +1,7 @@
-start = population = float(input())
-percent = int(input()) / 100
-day = int(input())
+start = population = float (input ())
+percent = int (input ()) / 100
+day = int (input ())
 
-for i in range(day):
-    print(i + 1, population)
+for i in range (day):
+    print (i + 1, population)
     population += population * (percent)

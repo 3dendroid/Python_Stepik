@@ -1,5 +1,5 @@
-m = int(input())
-n = int(input())
+m = int (input ())
+n = int (input ())
 
-for i in range(m, n + 1):
-    print(i)
+for i in range (m, n + 1):
+    print (i)

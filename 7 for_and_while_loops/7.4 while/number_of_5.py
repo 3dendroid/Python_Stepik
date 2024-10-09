@@ -1,4 +1,4 @@
-digit = int(input())
+digit = int (input ())
 fifth = 0
 
 while 0 < digit <= 5:
@@ -6,5 +6,5 @@ while 0 < digit <= 5:
         fifth += 1
     else:
         pass
-    digit = int(input())
-print(fifth)
+    digit = int (input ())
+print (fifth)

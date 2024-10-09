@@ -1,8 +1,8 @@
-a = int(input())
-b = int(input())
-c = int(input())
+a = int (input ())
+b = int (input ())
+c = int (input ())
 
 if (a + b > c) and (a + c > b) and (b + c > a):
-    print("YES")
+    print ("YES")
 else:
-    print("NO")
+    print ("NO")

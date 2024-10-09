@@ -1,13 +1,13 @@
-i = int(input())
+i = int (input ())
 
 try:
     if i <= 13:
-        print('детство')
+        print ('детство')
     elif 14 <= i <= 24:
-        print('молодость')
+        print ('молодость')
     elif 25 <= i <= 59:
-        print('зрелость')
+        print ('зрелость')
     else:
-        print('старость')
+        print ('старость')
 except ValueError as e:
-    print(e)
+    print (e)

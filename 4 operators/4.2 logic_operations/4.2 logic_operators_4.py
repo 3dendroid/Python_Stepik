@@ -5,7 +5,7 @@
 # else:
 #     print('число', num2, 'выиграло')
 
-a = int(input())
+a = int (input ())
 
 if a >= 2 and a <= 17:
     b = 3
@@ -14,4 +14,4 @@ else:
     b = 5
 
 p = (a + b) * (a + b)
-print(p)
+print (p)

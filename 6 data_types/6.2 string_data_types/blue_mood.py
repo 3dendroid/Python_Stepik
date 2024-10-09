@@ -1,6 +1,6 @@
-a = input()
+a = input ()
 
 if 'синий' in a:
-    print('YES')
+    print ('YES')
 else:
-    print('NO')
+    print ('NO')

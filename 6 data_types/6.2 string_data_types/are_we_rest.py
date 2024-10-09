@@ -1,9 +1,9 @@
-a = input()
+a = input ()
 
 if 'суббота' in a or 'воскресенье' in a:
-    print('YES')
+    print ('YES')
 else:
-    print('NO')
+    print ('NO')
 
 # if 'суббота' in a:
 #     print('YES')

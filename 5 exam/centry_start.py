@@ -1,8 +1,8 @@
-a = int(input())
+a = int (input ())
 
 if a % 100 == 0:
-    print('YES')
+    print ('YES')
 else:
-    print('NO')
+    print ('NO')
 
 # print(1990 % 100)

@@ -1,5 +1,5 @@
-text = str(input())
-n = int(input())
+text = str (input ())
+n = int (input ())
 
-for a in range(n):
-    print(text)
+for a in range (n):
+    print (text)

@@ -1,11 +1,9 @@
-import chatgpt
-
-word = input()
+word = input ()
 
 if word == 'Python':
-    print('ДА')
+    print ('ДА')
 else:
-    print('НЕТ')
+    print ('НЕТ')
 
 # num = int(input())
 #

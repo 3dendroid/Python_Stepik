@@ -1,6 +1,6 @@
-a = int(input())
-b = int(input())
-c = int(input())
+a = int (input ())
+b = int (input ())
+c = int (input ())
 
 sum = 0
 
@@ -18,4 +18,4 @@ if c >= 0:
 else:
     c = 0
 
-print(a + b + c)
+print (a + b + c)

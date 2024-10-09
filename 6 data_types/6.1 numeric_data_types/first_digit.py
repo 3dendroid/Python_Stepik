@@ -1,5 +1,5 @@
-a = float(input())
+a = float (input ())
 
-b = int(a)
+b = int (a)
 c = (a - b) * 10
-print(int(c))
+print (int (c))

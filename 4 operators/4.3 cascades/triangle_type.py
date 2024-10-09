@@ -1,10 +1,10 @@
-a = int(input())
-b = int(input())
-c = int(input())
+a = int (input ())
+b = int (input ())
+c = int (input ())
 
 if a == b == c == a:
-    print('Равносторонний')
+    print ('Равносторонний')
 elif a != b != c != a:
-    print('Разносторонний')
+    print ('Разносторонний')
 else:
-    print('Равнобедренный')
+    print ('Равнобедренный')

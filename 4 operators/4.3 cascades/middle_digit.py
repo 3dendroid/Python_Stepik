@@ -1,14 +1,14 @@
-a = int(input())
-b = int(input())
-c = int(input())
+a = int (input ())
+b = int (input ())
+c = int (input ())
 
 if a < b < c or c > b > a:
-    print(b)
+    print (b)
 elif c < b < a or a > b > c:
-    print(b)
+    print (b)
 elif b < a < c or c > a > b:
-    print(a)
+    print (a)
 elif c < a < b or b > a > c:
-    print(a)
+    print (a)
 else:
-    print(c)
+    print (c)

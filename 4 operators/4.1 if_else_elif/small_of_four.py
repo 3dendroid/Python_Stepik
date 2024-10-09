@@ -1,7 +1,7 @@
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
+a = int (input ())
+b = int (input ())
+c = int (input ())
+d = int (input ())
 ab = 0
 cd = 0
 
@@ -14,6 +14,6 @@ if c < d:
 else:
     cd = d
 if ab < cd:
-    print(ab)
+    print (ab)
 else:
-    print(cd)
+    print (cd)

@@ -16,6 +16,6 @@
 # print("Объем = " + str(v))
 # print("Площадь полной поверхности = " + str(s))
 
-a = int(input())
-b = int(input())
+a = int (input ())
+b = int (input ())
 f = 3 * (a + b) * (a + b) * (a + b) + 275 * (b * b) - 127 * a - 41

@@ -1,4 +1,4 @@
-n = int(input())
+n = int (input ())
 max_digit = -1
 while n > 0:
     digit = n % 10
@@ -7,6 +7,6 @@ while n > 0:
             max_digit = digit
     n //= 10
 if max_digit == -1:
-    print('NO')
+    print ('NO')
 else:
-    print(max_digit)
+    print (max_digit)

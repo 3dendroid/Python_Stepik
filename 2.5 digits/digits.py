@@ -8,4 +8,4 @@
 num = 1234
 n = 4
 i = 3
-print((num // 10 ** (n - i)) % 10)
+print ((num // 10 ** (n - i)) % 10)

@@ -1,15 +1,13 @@
-x = int(input())
-y = int(input())
+x = int (input ())
+y = int (input ())
 
 if x > 0:
     if y > 0:
-        print('Первая четверть')
+        print ('Первая четверть')
     else:
-        print('Четвертая четверть')
+        print ('Четвертая четверть')
 else:
     if y > 0:
-        print('Вторая четверть')
+        print ('Вторая четверть')
     else:
-        print('Третья четверть')
-
-
+        print ('Третья четверть')
